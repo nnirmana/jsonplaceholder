@@ -1,5 +1,6 @@
 {
-    "faqv1": [
+    "faq": {
+        "v1" : [
         {
             "id": 1,
             "question": "ake a type specimen book. It has survived not only five centuries, bu ? " ,
@@ -16,4 +17,5 @@
             "answer" : "acus ac faucibus. Sed pellentesque molestie tellus in dapibus. Phasellus tincidunt, metus at mattis ultrices"
         }
     ]
+    }
 }
